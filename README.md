@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about machine learning
 - 💞️ I’m not really looking to collaborate on anything just yet.  I'm pretty much at the kindergarten level so I suspect I couldn't be of much use.
 I am hoping to change that.  It is so early in my journey that I can't even guage yet how long it might take to know enough to be reasonably productive.
-- 📫 I can be reached at Tim@Cornillaud.com
+- 📫 I can be reached at TimCornillaud@gmail.com
 
 <!---
 corneo/corneo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
